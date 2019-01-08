@@ -1,6 +1,6 @@
 # nodes_catalog
 
-###Construir la imagen de docker con 
+### Construir la imagen de docker con 
 `docker build . -t selenium-chrome`
 
 ### Correr el contenedor con 
